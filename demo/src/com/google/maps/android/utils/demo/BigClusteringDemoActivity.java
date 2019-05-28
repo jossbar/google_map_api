@@ -26,7 +26,6 @@ import android.widget.Toast;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.maps.android.clustering.ClusterManager;
-import com.google.maps.android.utils.demo.model.MyItem;
 
 public class BigClusteringDemoActivity extends BaseDemoActivity {
     private ClusterManager<MyItem> mClusterManager;

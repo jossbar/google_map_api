@@ -33,7 +33,6 @@ import com.google.maps.android.clustering.ClusterItem;
 import com.google.maps.android.clustering.ClusterManager;
 import com.google.maps.android.clustering.view.DefaultClusterRenderer;
 import com.google.maps.android.ui.IconGenerator;
-import com.google.maps.android.utils.demo.model.Person;
 
 import java.util.ArrayList;
 import java.util.List;

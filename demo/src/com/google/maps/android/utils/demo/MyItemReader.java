@@ -25,8 +25,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.google.maps.android.utils.demo.model.MyItem;
-
 public class MyItemReader {
 
     /*
